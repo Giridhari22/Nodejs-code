@@ -1,0 +1,50 @@
+
+[
+    {
+        "id":1,
+        "name":"Giridhari jha",
+        "username":"giridharijha123",
+        "email":"giridharijha123@gmail.com",
+        "address":{
+            "street":"canal road",
+            "suite":"apt. 556",
+            "city":"madhubani",
+            "zipcode":"847211",
+            "geo":{
+                "lat":"-37.3157",
+                "lng":"81.1432"
+            }
+        },
+        "phone":"9060294734",
+        "website":"giri.org",
+        "company":{
+            "name":"rpmaguera-corna",
+            "catchPhrase":"multi-layered client -server neural-net",
+            "bs":"harness real-time e-markets"
+        }
+    },
+
+    {
+        "id":2,
+        "name":"keshri nandan",
+        "username":"nandankeshri@1",
+        "email":"nandankeshri284@gmail.com",
+        "address":{
+            "street":"canal road",
+            "suite":"adarsh nagar",
+            "city":"madhubani",
+            "zipcode":"847211",
+            "geo":{
+                "lat":"-38.986",
+                "lng":"81.3432"
+            }
+        },
+        "phone":"6200110059",
+        "website":"keshri.org",
+        "company":{
+            "name":"kantap clients",
+            "catchPhrase":"multi-layered  client-server neural-net",
+            "bs":"harness real-time e-markets"
+        } 
+    }
+]
